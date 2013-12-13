@@ -225,7 +225,7 @@ int main(int argc, char *argv[]) {
     char *wep_pw;
 
     puts("\n  Netkeys v1.1 - Netopia key generator."
-         "\n  Copyright (c) 2007, 2008, 2010 Kevin Devine\n");
+         "\n  Copyright (c) 2007, 2010 Kevin Devine\n");
 
     if (argc < 2) {
         printf("  Usage: netkeys <required MAC> <optional password>\n");
