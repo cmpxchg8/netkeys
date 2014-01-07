@@ -1,5 +1,4 @@
 
-
     Netkeys v1.1 - Netopia Key Generator
 
 
@@ -53,7 +52,7 @@
   > netkeys 000FCC29C472
 
   Netkeys v1.1 - Netopia key generator.
-  Copyright (c) 2007, 2008, 2010 Kevin Devine
+  Copyright (c) 2007, 2010 Kevin Devine
 
 
   Serial Number : 19514482
